@@ -105,6 +105,7 @@ Scrobble and play your personalised recommendations.
 ![Notifications](screenshots/Settings-Notifications.png)
 ![Notifications](screenshots/Notification.png)
 ![Notifications](screenshots/Notification-Confirm.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fcloudtunes.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fcloudtunes?ref=badge_shield)
 
 ### Settings
 
@@ -227,6 +228,9 @@ And then start again from step 1. above (it should go much faster this time).
 ## License
 
 BSD. See [LICENSE](LICENSE) for more details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fcloudtunes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fcloudtunes?ref=badge_large)
 
 ## Contact 
 
